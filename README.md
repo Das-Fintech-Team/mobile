@@ -1,5 +1,5 @@
 # mobile
-Mobile Templates:
+Mobile templates, use to start a new mobile project
 - Android
 - Flutter
 - Ionic
